@@ -29,3 +29,6 @@ This work is submitted to the QHack 2021 organized by Xanadu. During the hackath
 [7] [PennyLane optimizers](https://pennylane.readthedocs.io/en/stable/introduction/optimizers.html)
 
 [8] [Layerwise learning for quantum neural networks, Andrea Skolik, Jarrod R. McClean, Masoud Mohseni, Patrick van der Smagt,  Martin Leib](https://arxiv.org/abs/2006.14904)
+
+
+The final notebook is [here](https://github.com/eraraya-ricardo/qhack-2021-openproject/blob/main/QHack_Final.ipynb). GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that please use this [link](https://nbviewer.jupyter.org/github/eraraya-ricardo/qhack-2021-openproject/blob/main/QHack_Final.ipynb) to see the notebook in nbviewer.
