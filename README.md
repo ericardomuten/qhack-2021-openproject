@@ -4,7 +4,7 @@ Team Name: Entangled_Nets
 
 ### Abstract
 
-This project aims to use the method of modified layerwise learning[8] on data-reuploading classifier[6], where parametrized quantum circuit will be used as quantum classifiers to classify the SUSY dataset[1]. We managed to produce a better result using this approach compared to the previous related research[2] with less number of qubit. We obtained AUC of 0.8488 on testing dataset with 5000 training and testing samples, trained and tested using a simulator. We also tested to run the circuit on Rigetti's Aspen-9 QPU provided by AWS using the already optimized parameter to predict 2000 samples of test dataset and we obtained AUC of 0.8298.
+This project aims to use the method of modified layerwise learning[8] on data re-uploading classifier[6], where parametrized quantum circuit will be used as quantum classifiers to classify the SUSY dataset[1]. We managed to produce a better result using this approach compared to the previous related research[2] with less number of qubit. We obtained AUC of 0.8488 on testing dataset with 5000 training and testing samples, trained and tested using a simulator. We also tested to run the circuit on Rigetti's Aspen-9 QPU provided by AWS using the already optimized parameter to predict 2000 samples of test dataset and we obtained AUC of 0.8298.
 
 
 ### Acknowledgment 
