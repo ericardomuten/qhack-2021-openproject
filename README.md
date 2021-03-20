@@ -1,4 +1,4 @@
-# Event Classification with Layerwise Learning for Data Re-uploading Classifier in High Energy Physics
+# Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics
 
 Team Name: Entangled_Nets
 
