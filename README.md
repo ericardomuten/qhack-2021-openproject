@@ -13,7 +13,7 @@ This work is submitted to the QHack 2021 organized by Xanadu. During the hackath
 
 ### Competition Result
 
-We got second place! You can read the official announcement from Xanadu here: <br>
+**We got second place!**🎉🎉 You can read the official announcement from Xanadu here: <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0"> 
 
 
