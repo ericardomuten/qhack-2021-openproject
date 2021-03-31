@@ -17,7 +17,7 @@ This work is submitted to the [QHack 2021](https://github.com/XanaduAI/QHack2021
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0"> 
 
 
-**References:**
+### References
 
 [1] [SUSY Dataset - UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/SUSY#)
 
