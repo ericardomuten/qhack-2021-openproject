@@ -9,11 +9,11 @@ This project aims to use the method of modified layerwise learning[8] on data re
 
 ### Acknowledgment 
 
-This work is submitted to the QHack 2021 organized by Xanadu. During the hackathon, we had the opportunity to learn and implement ideas in the field of QML. It was a pleasure to be part of this hackathon, and as a team, we would like to thank all the speakers for their valuable presentations and the Xanadu team for organizing an amazing event.
+This work is submitted to the [QHack 2021](https://github.com/XanaduAI/QHack2021) organized by @XanaduAI. During the hackathon, we had the opportunity to learn and implement ideas in the field of QML. It was a pleasure to be part of this hackathon, and as a team, we would like to thank all the speakers for their valuable presentations and the Xanadu team for organizing an amazing event. Thanks to [Amazon Braket](https://aws.amazon.com/braket/), we received a total of $4250 in AWS credits to execute our code on real quantum hardware.
 
 ### Competition Result
 
-**We got second place!** 🎉🎉 You can read the official announcement from Xanadu here: <br>
+**We got second place and won the tickets to the summer internship at CERN!!** 🎉🎉 You can read the official announcement from Xanadu here: <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0"> 
 
 
