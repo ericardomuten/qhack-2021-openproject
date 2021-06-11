@@ -1,4 +1,4 @@
-# Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics
+# QHack 2021 Open Hackathon: Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics
 
 Team Name: Entangled_Nets
 
@@ -17,6 +17,10 @@ This work is submitted to the [QHack 2021](https://github.com/XanaduAI/QHack2021
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0">
 []()
 
+### QML Challenge Part
+
+For the QML Challenge Part, our solutions are [here](https://github.com/eraraya-ricardo/qhack-2021-solutions).
+  
 ### References
 
 [1] [SUSY Dataset - UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/SUSY#)
