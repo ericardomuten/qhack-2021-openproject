@@ -13,7 +13,8 @@ This work is submitted to the [QHack 2021](https://github.com/XanaduAI/QHack2021
 
 ### Competition Result
 
-**We got second place and won the tickets to the summer internship at CERN!!** 🎉🎉 You can read the official announcement from Xanadu here: <br>
+**`We got second place and won the tickets to the summer internship at CERN!! 🎉🎉`**<br>
+You can read the official announcement from Xanadu here: <br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0">
 []()
 
