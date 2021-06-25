@@ -43,4 +43,4 @@ For the QML Challenge Part, our solutions are [here](https://github.com/eraraya-
 ### Note
 The final notebook is [here](https://github.com/eraraya-ricardo/qhack-2021-openproject/blob/main/QHack_Final.ipynb). GitHub sometimes failed to render Jupyter Notebook's markdown properly, so in case of that please use this [link](https://nbviewer.jupyter.org/github/eraraya-ricardo/qhack-2021-openproject/blob/main/QHack_Final.ipynb) to see the notebook in nbviewer. <br>
 The final notebook is the clean version of the code that by itself should be enough to reproduce the results, but all the testing/temporary codes and other files used in this project are available at the [Old GitHub Repo](https://github.com/VoicuTomut/Event-Classification-with-data-reuploading-in-High-Energy-Physics).
-Our numerical results from the Rigetti's QPU device are stored inside the Amazon Braket.
+Our numerical results from the Rigetti's QPU device are [here](https://github.com/eraraya-ricardo/qhack-2021-openproject/tree/main/QPU%20Results).
