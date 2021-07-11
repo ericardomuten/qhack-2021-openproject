@@ -3,9 +3,9 @@
 # QHack 2021 Open Hackathon:<br>Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics  
 
 Team Name: Entangled_Nets<br>
-[Eraraya Ricardo Muten](github.com/eraraya-ricardo)<br>
-[Togan Tlimakhov]()<br>
-[Andrei Voicu Tomuț]()<br>
+[Eraraya Ricardo Muten](https://github.com/eraraya-ricardo)<br>
+[Togan Tlimakhov](https://github.com/T0gan)<br>
+[Andrei Voicu Tomuț](https://github.com/VoicuTomut)<br>
   
 </div>
 
