@@ -1,6 +1,14 @@
-# QHack 2021 Open Hackathon: Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics
+<div align='center'>
 
-Team Name: Entangled_Nets
+# QHack 2021 Open Hackathon:
+# Event Classification with Layerwise Learning for Data Re-uploading Classifier in High-Energy Physics  
+
+Team Name: Entangled_Nets<br>
+Members: - Eraraya Ricardo Muten<br>
+         - Togan Tlimakhov<br>
+         - Andrei Voicu Tomuț<br>
+  
+</div>
 
 ### Abstract
 
