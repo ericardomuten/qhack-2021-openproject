@@ -22,9 +22,11 @@ This work is submitted to the [QHack 2021](https://github.com/XanaduAI/QHack2021
 
 **`We got second place and won the tickets to the summer internship at CERN!! 🎉🎉`**<br>
 You can read the official announcement from Xanadu here: <br>
+<a href="https://medium.com/xanaduai/qhack-the-quantum-machine-learning-hackathon-7f2cd7348e2b" target="_blank"><img height="400px" src="https://github.com/eraraya-ricardo/qhack-2021-openproject/blob/main/Xanadu%20Medium.png" title="" /></a>
+<!--
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@XanaduAI/0" alt="Recent Article 0">
 []()
-
+-->
 ### QML Challenge Part
 
 For the QML Challenge Part, our solutions are [here](https://github.com/eraraya-ricardo/qhack-2021-solutions).
